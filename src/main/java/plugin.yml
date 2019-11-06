@@ -1,0 +1,9 @@
+name: Scoreboard
+version: 1
+api-version: 1.14
+author: Tabaribou
+main: fr.station47.scoreboard.Scoreboard
+commands:
+  sb:
+    description: Afficher/cacher le scoreboard
+    usage: /sb
